@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "anibndUtils": {
+      "commandName": "Project",
+      "commandLineArgs": "compare \"$(SolutionDir)samples\\c0000.anibnd.dcx\" \"$(SolutionDir)samples\\mod\\c0000.anibnd.dcx\""
+    }
+  }
+}
